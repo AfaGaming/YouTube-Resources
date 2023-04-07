@@ -4,3 +4,4 @@ Welcome to the official resources list for all the resources that are mentioned 
 ## Video 1 - Making a Blog Website
 You can check out the video [here](https://www.youtube.com/). <br> <br>
 **Resource 1:** [Download the starting files](https://www.mediafire.com/folder/54g1csdxrg572/starting_files)
+`git clone "https://github.com/AfaGaming/YouTube-Resources"`
